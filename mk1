@@ -1,4 +1,5 @@
 #pragma config(I2C_Usage, I2C1, i2cSensors)
+# add a comment
 #pragma config(Sensor, in1,    ,               sensorGyro)
 #pragma config(Sensor, in2,    gybro,          sensorGyro)
 #pragma config(Sensor, dgtl1,  quadR,          sensorQuadEncoder)
